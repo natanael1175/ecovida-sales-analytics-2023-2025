@@ -1,1 +1,5 @@
-anVweXRlcg0KbWF0cGxvdGxpYg0KbmJmb3JtYXQNCnBhbmRhcw0Kc2VhYm9ybg0K
+jupyter
+matplotlib
+nbformat
+pandas
+seaborn
